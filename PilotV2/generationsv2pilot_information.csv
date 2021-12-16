@@ -1,0 +1,9 @@
+id,age,handedness,language,nationality,residence,gender,education,bai,bdi,panas_pos,panas_neg,openness
+5ae208fe38df950001454cc3,33,right,English,American,America,female,masters,18,16,16,0,38
+58f1017ac325470001795b01,37,Right,English,American,USA,Female,BA,3,0,37,0,32
+5f202f442841bb2b5a8bda34,35,Right,English,American,United States of America,Female,University degree,16,9,17,0,28
+5b76ce43bfc4cb0001f2c4c3,48,left,english,american,usa,female,Associates Degree,17,0,34,0,33
+5d461284d9b0690001720f6d,32,Right,English,American,United States,Female,High school,6,0,18,0,31
+5c39606586c1450001a9675d,36,Right,English,USA,USA,Female,Bachelors degree,33,51,17,0,35
+5b0ad393e9270900013b96e6,55,Right,English,USA,USA,Male,Some college,8,15,22,0,36
+597b81f3de42bf000181db0b,40,Right,English,American,United States of America,Male,Some college,11,15,18,0,33

@@ -1,0 +1,515 @@
+vignette_name,generation_number,generation_time,response,reflection_score,id
+ring,0,12767,make fake rings,55,5ae208fe38df950001454cc3
+ring,1,8718,call the taxi driver,75,5ae208fe38df950001454cc3
+ring,2,4017,cry,2,5ae208fe38df950001454cc3
+ring,3,12310,interrupt the bride and groom,61,5ae208fe38df950001454cc3
+ring,4,8686,run away,1,5ae208fe38df950001454cc3
+ring,5,9673,borrow rings,82,5ae208fe38df950001454cc3
+arizona,0,4465,preserve urine,68,5ae208fe38df950001454cc3
+arizona,1,5945,try to free her arm,77,5ae208fe38df950001454cc3
+arizona,2,3966,walk for help,66,5ae208fe38df950001454cc3
+arizona,3,4427,cut her arm off,19,5ae208fe38df950001454cc3
+arizona,4,6619,leave her to die,0,5ae208fe38df950001454cc3
+arizona,5,10448,start a fire for attention,60,5ae208fe38df950001454cc3
+concert,0,4591,buy  a new ticket,87,5ae208fe38df950001454cc3
+concert,1,5438,look for an online confirmation,72,5ae208fe38df950001454cc3
+concert,2,3766,leave Ted behind,33,5ae208fe38df950001454cc3
+concert,3,7347,have Ted go home,10,5ae208fe38df950001454cc3
+concert,4,4570,skip the concert,0,5ae208fe38df950001454cc3
+concert,5,7455,leave Ted outside,17,5ae208fe38df950001454cc3
+summer,0,3337,call 911,91,5ae208fe38df950001454cc3
+summer,1,5232,tell the store manager,83,5ae208fe38df950001454cc3
+summer,2,3952,break a window,55,5ae208fe38df950001454cc3
+summer,3,4903,look for the owner,61,5ae208fe38df950001454cc3
+summer,4,8542,try to get the doors open,69,5ae208fe38df950001454cc3
+summer,5,4491,leave,0,5ae208fe38df950001454cc3
+medication,0,3975,start a go fund me,68,5ae208fe38df950001454cc3
+medication,1,4205,borrow money,77,5ae208fe38df950001454cc3
+medication,2,2841,steal money,17,5ae208fe38df950001454cc3
+medication,3,8020,ask family for help,89,5ae208fe38df950001454cc3
+medication,4,2844,let them die,2,5ae208fe38df950001454cc3
+medication,5,6747,steal the medicine,9,5ae208fe38df950001454cc3
+mother,0,5363,start a go fund me,55,5ae208fe38df950001454cc3
+mother,1,8434,ask other family members,60,5ae208fe38df950001454cc3
+mother,2,3614,government assistance,50,5ae208fe38df950001454cc3
+mother,3,4341,leave him alone,5,5ae208fe38df950001454cc3
+mother,4,9473,move him in,55,5ae208fe38df950001454cc3
+mother,5,10066,sell his house and move with him to somewhere new,96,5ae208fe38df950001454cc3
+bakery,0,6424,double check the register,96,5ae208fe38df950001454cc3
+bakery,1,8232,ask all employees to help make up the difference,60,5ae208fe38df950001454cc3
+bakery,2,2353,let it go,0,5ae208fe38df950001454cc3
+bakery,3,9241,pay it yourself,21,5ae208fe38df950001454cc3
+bakery,4,8850,make them work,53,5ae208fe38df950001454cc3
+bakery,5,11689,hide,11,5ae208fe38df950001454cc3
+gas,0,2670,say no,73,5ae208fe38df950001454cc3
+gas,1,9273,give her money to go away,47,5ae208fe38df950001454cc3
+gas,2,6417,let her borrow your phone,59,5ae208fe38df950001454cc3
+gas,3,2190,call an uber,45,5ae208fe38df950001454cc3
+gas,4,1984,ignore her,72,5ae208fe38df950001454cc3
+gas,5,8115,tell her to go away,68,5ae208fe38df950001454cc3
+class,0,4059,tell the professor,90,5ae208fe38df950001454cc3
+class,1,4553,call your mom to bring it in,62,5ae208fe38df950001454cc3
+class,2,3264,send it in late,79,5ae208fe38df950001454cc3
+class,3,3684,try to redo it,61,5ae208fe38df950001454cc3
+class,4,4848,do nothing,10,5ae208fe38df950001454cc3
+class,5,3171,cry,5,5ae208fe38df950001454cc3
+store,0,5994,call another co-worker,71,5ae208fe38df950001454cc3
+store,1,3409,lock up the store,66,5ae208fe38df950001454cc3
+store,2,2884,call the court,70,5ae208fe38df950001454cc3
+store,3,4608,leave work,36,5ae208fe38df950001454cc3
+store,4,8979,quit,13,5ae208fe38df950001454cc3
+store,5,7890,hope he comes in,56,5ae208fe38df950001454cc3
+bakery,0,12845,Check the cameras,100,58f1017ac325470001795b01
+bakery,1,14677,Ask the employees about it,88,58f1017ac325470001795b01
+bakery,2,22609,Make up the money,13,58f1017ac325470001795b01
+bakery,3,22915,Tell the boss the truth,58,58f1017ac325470001795b01
+bakery,4,8686,Have a meeting about stealing,70,58f1017ac325470001795b01
+bakery,5,30896,Only have the same person work the register,31,58f1017ac325470001795b01
+ring,0,4115,Stall the wedding,13,58f1017ac325470001795b01
+ring,1,4966,Call the taxi cab company,100,58f1017ac325470001795b01
+ring,2,12254,Replace the ring with another one,91,58f1017ac325470001795b01
+ring,3,5016,Tell everyone the truth,75,58f1017ac325470001795b01
+ring,4,8776,Go get it,41,58f1017ac325470001795b01
+ring,5,20653,Chase down the cab,27,58f1017ac325470001795b01
+gas,1,4975,Give an excuse,36,58f1017ac325470001795b01
+gas,2,36824,Tell her she can borrow your phone to call someone,94,58f1017ac325470001795b01
+gas,3,40132,Avoid eye contact,1,58f1017ac325470001795b01
+gas,4,24564,Find someone else to help her,62,58f1017ac325470001795b01
+concert,0,5571,Wait with him outside,74,58f1017ac325470001795b01
+concert,1,7799,Have him call someone to get the ticket,94,58f1017ac325470001795b01
+concert,2,3512,Look for a scalper,12,58f1017ac325470001795b01
+concert,3,20028,Tell him goodbye,3,58f1017ac325470001795b01
+concert,4,18445,Tell him they will meet up after the concert,56,58f1017ac325470001795b01
+concert,5,32574,Smuggle him inside,3,58f1017ac325470001795b01
+medication,0,9400,Sell something I own,98,58f1017ac325470001795b01
+medication,1,3480,Steal the money,0,58f1017ac325470001795b01
+medication,2,33282,Steal the medicine,1,58f1017ac325470001795b01
+medication,3,4901,Call the insurance company,92,58f1017ac325470001795b01
+medication,4,3711,Search for some coupons,75,58f1017ac325470001795b01
+medication,5,7314,Ask the pharmacy about discounts,100,58f1017ac325470001795b01
+arizona,0,4887,Find some extra water,81,58f1017ac325470001795b01
+arizona,1,6601,Make shade for the person,98,58f1017ac325470001795b01
+arizona,2,9925,Get them as comfortable as possible,89,58f1017ac325470001795b01
+arizona,3,15082,Leave to find help,32,58f1017ac325470001795b01
+arizona,4,21558,Leave her there and go home,0,58f1017ac325470001795b01
+arizona,5,9855,Try and get her unstuck,62,58f1017ac325470001795b01
+class,0,3936,Call your mom,72,58f1017ac325470001795b01
+class,1,1979,Ditch class,1,58f1017ac325470001795b01
+class,2,2975,go home and get it,30,58f1017ac325470001795b01
+class,3,6031,Make up an excuse,0,58f1017ac325470001795b01
+class,4,2241,Tell the truth,86,58f1017ac325470001795b01
+class,5,8509,Have her email it to you,100,58f1017ac325470001795b01
+summer,0,4805,Break the windows,89,58f1017ac325470001795b01
+summer,1,2173,Call the cops,69,58f1017ac325470001795b01
+summer,2,2681,Call animal control,85,58f1017ac325470001795b01
+summer,3,3253,Find some water,100,58f1017ac325470001795b01
+summer,4,7305,Ask someone nearby for help,100,58f1017ac325470001795b01
+summer,5,9829,Track down the owner,60,58f1017ac325470001795b01
+mother,0,6153,Ask insurance about a nurse,89,58f1017ac325470001795b01
+mother,1,8842,Call insurance for options,100,58f1017ac325470001795b01
+mother,2,13192,See if a relative can help,63,58f1017ac325470001795b01
+mother,3,3089,Move into his house,53,58f1017ac325470001795b01
+mother,4,8938,Raise some money,33,58f1017ac325470001795b01
+mother,5,6323,Find other help,75,58f1017ac325470001795b01
+store,0,3982,Shut down the store,1,58f1017ac325470001795b01
+store,1,3246,Call in a replacement,90,58f1017ac325470001795b01
+store,2,2105,Call the owner,96,58f1017ac325470001795b01
+store,3,8651,Leave the store unattended,0,58f1017ac325470001795b01
+store,4,5769,Reschedule your court appointment,69,58f1017ac325470001795b01
+store,5,8363,Stay until the owner gets there,61,58f1017ac325470001795b01
+mother,0,13139,Move into their house,81,5f202f442841bb2b5a8bda34
+mother,1,10295,Apply for aid,87,5f202f442841bb2b5a8bda34
+mother,2,9038,Ask another relative for help,80,5f202f442841bb2b5a8bda34
+mother,3,12080,Sell their house and move into another place,46,5f202f442841bb2b5a8bda34
+mother,4,22872,Start a Go Fund Me,26,5f202f442841bb2b5a8bda34
+mother,5,7441,Ask relatives for money,67,5f202f442841bb2b5a8bda34
+class,0,11858,Call my mom and have her bring the homework,89,5f202f442841bb2b5a8bda34
+class,1,8622,"Explain to the teacher the situation ",100,5f202f442841bb2b5a8bda34
+class,2,5174,Ask for an extension,90,5f202f442841bb2b5a8bda34
+class,3,21055,See if I can run home quick and grab it,74,5f202f442841bb2b5a8bda34
+class,4,8692,Have my mom call the teacher,55,5f202f442841bb2b5a8bda34
+class,5,24686,Not turn in the assignment,0,5f202f442841bb2b5a8bda34
+arizona,0,10773,Leave her and find better service,55,5f202f442841bb2b5a8bda34
+arizona,1,23519,Try to get out of the sun,66,5f202f442841bb2b5a8bda34
+arizona,2,4894,Cut off her arm,0,5f202f442841bb2b5a8bda34
+arizona,3,9019,Hike away to find help,56,5f202f442841bb2b5a8bda34
+arizona,4,11257,"Continue trying to call 911 ",100,5f202f442841bb2b5a8bda34
+arizona,5,6896,Continue trying to get her arm out,100,5f202f442841bb2b5a8bda34
+ring,0,6739,Call the taxi company,100,5f202f442841bb2b5a8bda34
+ring,1,7411,Tell the bride/groom,100,5f202f442841bb2b5a8bda34
+ring,2,8498,Borrow a different ring for the time being,76,5f202f442841bb2b5a8bda34
+ring,3,33265,Send someone to get the rings,86,5f202f442841bb2b5a8bda34
+ring,4,3269,panic,9,5f202f442841bb2b5a8bda34
+ring,5,33165,Go without the rings,51,5f202f442841bb2b5a8bda34
+bakery,0,7869,Call the manager,100,5f202f442841bb2b5a8bda34
+bakery,1,3988,Re-count the money,100,5f202f442841bb2b5a8bda34
+bakery,2,11246,Check around the register area for any slipped out money,100,5f202f442841bb2b5a8bda34
+bakery,3,7866,Review the security footage for stealing,100,5f202f442841bb2b5a8bda34
+bakery,4,11468,Work the overtime,69,5f202f442841bb2b5a8bda34
+bakery,5,6009,replace the money,38,5f202f442841bb2b5a8bda34
+summer,0,2641,Call 911,100,5f202f442841bb2b5a8bda34
+summer,1,8302,Go into the mall and tell security,100,5f202f442841bb2b5a8bda34
+summer,2,2743,break the window,100,5f202f442841bb2b5a8bda34
+summer,3,9140,try to open the door,100,5f202f442841bb2b5a8bda34
+summer,4,5205,try to find the owner,79,5f202f442841bb2b5a8bda34
+summer,5,3123,call animal control,86,5f202f442841bb2b5a8bda34
+medication,0,6759,Ask relatives for money,79,5f202f442841bb2b5a8bda34
+medication,1,5754,Take out a credit card,74,5f202f442841bb2b5a8bda34
+medication,2,8812,Get a second job,100,5f202f442841bb2b5a8bda34
+medication,3,92814,Start Go Fund Me,62,5f202f442841bb2b5a8bda34
+medication,4,11129,Garage sale,57,5f202f442841bb2b5a8bda34
+medication,5,10086,Take out second mortgage,81,5f202f442841bb2b5a8bda34
+store,0,7742,Call other employees to see if they can come in,100,5f202f442841bb2b5a8bda34
+store,1,9938,Call the court and explain you may be late,72,5f202f442841bb2b5a8bda34
+store,2,5467,Lock up the store and leave,100,5f202f442841bb2b5a8bda34
+store,3,13801,Continue calling the manager,100,5f202f442841bb2b5a8bda34
+store,4,6144,Call 911 for a wellness check,53,5f202f442841bb2b5a8bda34
+store,5,30912,Call and see if the appointment can be rescheduled,53,5f202f442841bb2b5a8bda34
+concert,0,7992,See if the venue can look up his information,100,5f202f442841bb2b5a8bda34
+concert,1,9153,Skip the concert with Ted,71,5f202f442841bb2b5a8bda34
+concert,2,13477,Have Ted skip the concert and meet up later,71,5f202f442841bb2b5a8bda34
+concert,3,13902,Ted goes home for his ticket,40,5f202f442841bb2b5a8bda34
+concert,5,18801,See if there are extra tickets for sale,100,5f202f442841bb2b5a8bda34
+gas,0,6127,Give her the ride,84,5f202f442841bb2b5a8bda34
+gas,1,4447,Decline to drive her,33,5f202f442841bb2b5a8bda34
+gas,2,8308,Offer to call an Uber,47,5f202f442841bb2b5a8bda34
+gas,4,13563,Offer a ride to near bus station,77,5f202f442841bb2b5a8bda34
+gas,5,15595,Tell her how to get to a nearby bus station,77,5f202f442841bb2b5a8bda34
+medication,0,8307,Take out a loan.,66,5b76ce43bfc4cb0001f2c4c3
+medication,1,18236,Sell owned items.,55,5b76ce43bfc4cb0001f2c4c3
+medication,2,12452,Search for discount programs.,83,5b76ce43bfc4cb0001f2c4c3
+medication,3,15693,Become part of a medical trial,82,5b76ce43bfc4cb0001f2c4c3
+medication,4,13874,Apply for government assistance,85,5b76ce43bfc4cb0001f2c4c3
+medication,5,20508,Mortgage the house,30,5b76ce43bfc4cb0001f2c4c3
+summer,0,6797,Call the police,93,5b76ce43bfc4cb0001f2c4c3
+summer,1,7059,Search for car owner,64,5b76ce43bfc4cb0001f2c4c3
+summer,2,6652,break the window,56,5b76ce43bfc4cb0001f2c4c3
+summer,3,7620,Yell at owner,42,5b76ce43bfc4cb0001f2c4c3
+summer,4,14844,yell for help,63,5b76ce43bfc4cb0001f2c4c3
+summer,5,5909,monitor the dog,52,5b76ce43bfc4cb0001f2c4c3
+concert,0,9445,Buy another ticket,76,5b76ce43bfc4cb0001f2c4c3
+concert,1,10652,let him have your ticket,53,5b76ce43bfc4cb0001f2c4c3
+concert,2,8556,appeal to ticket agent,79,5b76ce43bfc4cb0001f2c4c3
+concert,3,5130,sneak him in,53,5b76ce43bfc4cb0001f2c4c3
+concert,4,14284,make a counterfeit ticket,27,5b76ce43bfc4cb0001f2c4c3
+concert,5,5270,steal ticket,15,5b76ce43bfc4cb0001f2c4c3
+class,0,15062,re do homework quickly,68,5b76ce43bfc4cb0001f2c4c3
+class,1,10205,copy from someone else,54,5b76ce43bfc4cb0001f2c4c3
+class,2,5294,explain to teacher,86,5b76ce43bfc4cb0001f2c4c3
+class,3,11653,pretend to be sick and leave,38,5b76ce43bfc4cb0001f2c4c3
+class,4,15972,have mother bring to you,92,5b76ce43bfc4cb0001f2c4c3
+class,5,8699,take a failing grade,17,5b76ce43bfc4cb0001f2c4c3
+ring,0,17589,ask relative for their ring,76,5b76ce43bfc4cb0001f2c4c3
+ring,1,8989,pretend to have imaginary ring,33,5b76ce43bfc4cb0001f2c4c3
+ring,2,8893,send groomsmen back for ring,67,5b76ce43bfc4cb0001f2c4c3
+ring,3,33093,have the wedding postponed,10,5b76ce43bfc4cb0001f2c4c3
+ring,4,7553,explain to bride,32,5b76ce43bfc4cb0001f2c4c3
+ring,5,7428,explain to groom,18,5b76ce43bfc4cb0001f2c4c3
+gas,0,6854,call her a taxi,81,5b76ce43bfc4cb0001f2c4c3
+gas,1,7167,offer money for taxi,58,5b76ce43bfc4cb0001f2c4c3
+gas,2,7244,call uber for her,70,5b76ce43bfc4cb0001f2c4c3
+gas,3,11385,explain you are sick,34,5b76ce43bfc4cb0001f2c4c3
+gas,4,8587,say you are in a hurry,63,5b76ce43bfc4cb0001f2c4c3
+gas,5,5389,ignore her,45,5b76ce43bfc4cb0001f2c4c3
+arizona,0,8669,bring shade to her,57,5b76ce43bfc4cb0001f2c4c3
+arizona,1,4942,keep trying 911,84,5b76ce43bfc4cb0001f2c4c3
+arizona,2,14637,cover up with clothing,57,5b76ce43bfc4cb0001f2c4c3
+arizona,3,11865,pour water on her,61,5b76ce43bfc4cb0001f2c4c3
+arizona,4,4868,yell for help,69,5b76ce43bfc4cb0001f2c4c3
+arizona,5,4869,go find help,88,5b76ce43bfc4cb0001f2c4c3
+bakery,0,7678,put 50 in the register,37,5b76ce43bfc4cb0001f2c4c3
+bakery,1,6057,explain to boss,72,5b76ce43bfc4cb0001f2c4c3
+bakery,2,7523,keep it a secret,41,5b76ce43bfc4cb0001f2c4c3
+bakery,3,9133,misadd numbers,58,5b76ce43bfc4cb0001f2c4c3
+bakery,4,10236,pretend to be sick and leave,16,5b76ce43bfc4cb0001f2c4c3
+bakery,5,11548,steal 50 to add to drawer,25,5b76ce43bfc4cb0001f2c4c3
+store,0,5756,leave anyway,48,5b76ce43bfc4cb0001f2c4c3
+store,1,7261,keep calling boss,71,5b76ce43bfc4cb0001f2c4c3
+store,2,10373,call another coworker,81,5b76ce43bfc4cb0001f2c4c3
+store,3,6741,close the store,38,5b76ce43bfc4cb0001f2c4c3
+store,4,7243,miss appointment,39,5b76ce43bfc4cb0001f2c4c3
+store,5,5092,quit job,32,5b76ce43bfc4cb0001f2c4c3
+mother,0,9301,ask brother to take him in,64,5b76ce43bfc4cb0001f2c4c3
+mother,1,7804,get father married again,42,5b76ce43bfc4cb0001f2c4c3
+mother,2,5716,move to new house,74,5b76ce43bfc4cb0001f2c4c3
+mother,3,6012,ignore father,16,5b76ce43bfc4cb0001f2c4c3
+mother,4,10202,take father to homeless shelter,0,5b76ce43bfc4cb0001f2c4c3
+mother,5,5443,shoot father,0,5b76ce43bfc4cb0001f2c4c3
+concert,0,19782,Go in without him.,6,5d461284d9b0690001720f6d
+concert,1,12152,Send him back home for his ticket.,73,5d461284d9b0690001720f6d
+concert,2,6974,Miss the concert.,19,5d461284d9b0690001720f6d
+concert,3,14320,Wait for him to go home and get it.,88,5d461284d9b0690001720f6d
+concert,4,29495,Buy another ticket.,100,5d461284d9b0690001720f6d
+concert,5,12471,Fuss at him.,3,5d461284d9b0690001720f6d
+arizona,0,9803,Drink my own pee.,67,5d461284d9b0690001720f6d
+arizona,1,16635,Holler for help.,84,5d461284d9b0690001720f6d
+arizona,2,5467,Search for help.,87,5d461284d9b0690001720f6d
+arizona,3,16260,Make a fire to draw attention.,75,5d461284d9b0690001720f6d
+arizona,4,17332,Look for water.,78,5d461284d9b0690001720f6d
+arizona,5,11532,Cut her arm off.,1,5d461284d9b0690001720f6d
+gas,0,8890,Give her a ride.,95,5d461284d9b0690001720f6d
+gas,1,9946,Giver her money.,72,5d461284d9b0690001720f6d
+gas,2,15430,Call her a cab.,66,5d461284d9b0690001720f6d
+gas,4,12235,Take her to a bus station.,40,5d461284d9b0690001720f6d
+gas,5,10652,Ignore her.,3,5d461284d9b0690001720f6d
+summer,0,6707,Call the police.,98,5d461284d9b0690001720f6d
+summer,1,5484,Break the window.,52,5d461284d9b0690001720f6d
+summer,2,9556,Tell the store manager.,67,5d461284d9b0690001720f6d
+summer,3,4612,Look for the owner.,63,5d461284d9b0690001720f6d
+summer,4,16508,Pry the door open.,67,5d461284d9b0690001720f6d
+summer,5,54179,Yell for help.,57,5d461284d9b0690001720f6d
+medication,0,9175,Get another job.,75,5d461284d9b0690001720f6d
+medication,1,8523,Look into financial aid.,95,5d461284d9b0690001720f6d
+medication,2,5443,Sell myself.,1,5d461284d9b0690001720f6d
+medication,3,9572,Rob a bank.,5,5d461284d9b0690001720f6d
+medication,4,28939,Sue the pharmaceutical company.,82,5d461284d9b0690001720f6d
+medication,5,23197,Go to Mexico for care.,98,5d461284d9b0690001720f6d
+mother,0,7281,Take him in anyway.,57,5d461284d9b0690001720f6d
+mother,1,6035,Move to a bigger place.,69,5d461284d9b0690001720f6d
+mother,2,18980,Take him to the cheapest nursing home.,0,5d461284d9b0690001720f6d
+mother,3,9652,Let him fend for himself.,0,5d461284d9b0690001720f6d
+mother,4,26203,Find other family he can live with.,81,5d461284d9b0690001720f6d
+mother,5,8867,Find friends he can live with.,79,5d461284d9b0690001720f6d
+bakery,0,19623,Question the employees.,88,5d461284d9b0690001720f6d
+bakery,1,25395,Check the employees for the money.,44,5d461284d9b0690001720f6d
+bakery,2,11492,Replace the money myself.,9,5d461284d9b0690001720f6d
+bakery,3,13355,Have the employees split the cost to replace the money.,76,5d461284d9b0690001720f6d
+bakery,5,9883,Quit my job.,19,5d461284d9b0690001720f6d
+class,0,11679,"Tell the teacher my situation. ",97,5d461284d9b0690001720f6d
+class,1,6588,Go back for my work.,73,5d461284d9b0690001720f6d
+class,2,13412,Bring the assignment the next day.,76,5d461284d9b0690001720f6d
+class,3,6564,Offer to do extra work.,62,5d461284d9b0690001720f6d
+class,4,11426,Call my mom to bring it to me.,100,5d461284d9b0690001720f6d
+class,5,7203,Take the bad grade.,12,5d461284d9b0690001720f6d
+store,0,9843,Call his boss.,82,5d461284d9b0690001720f6d
+store,1,10564,Call a coworker.,76,5d461284d9b0690001720f6d
+store,2,7763,Leave anyway.,22,5d461284d9b0690001720f6d
+store,3,5476,Miss my appointment.,2,5d461284d9b0690001720f6d
+store,4,15940,Lock up and close the store.,45,5d461284d9b0690001720f6d
+store,5,13428,Quit my job.,24,5d461284d9b0690001720f6d
+ring,0,9543,Call the taxi service.,70,5d461284d9b0690001720f6d
+ring,1,9108,Tell the bride and groom.,60,5d461284d9b0690001720f6d
+ring,2,16091,Borrow a ring from someone for the ceremony.,71,5d461284d9b0690001720f6d
+ring,3,23876,Leave the wedding.,4,5d461284d9b0690001720f6d
+ring,4,18772,Pay the couple back for the ring after the ceremony.,94,5d461284d9b0690001720f6d
+ring,5,13140,Lie.,0,5d461284d9b0690001720f6d
+bakery,0,11427,Figure out who was working the register,86,5c39606586c1450001a9675d
+bakery,1,13045,Ask my coworkers questions,89,5c39606586c1450001a9675d
+bakery,2,6159,Check inventory,66,5c39606586c1450001a9675d
+bakery,3,12959,Let my manager know about the situation,50,5c39606586c1450001a9675d
+bakery,4,19175,Figure out where the discrepancy is coming from,74,5c39606586c1450001a9675d
+bakery,5,15024,Try to figure out if this is a mistake or theft,74,5c39606586c1450001a9675d
+store,0,9324,Call emergency contacts for the store,63,5c39606586c1450001a9675d
+store,1,11294,Call coworkers and see if they can come in,50,5c39606586c1450001a9675d
+store,2,13392,Call bosses spouse or partner,58,5c39606586c1450001a9675d
+store,3,4623,Call the courthouse,34,5c39606586c1450001a9675d
+store,4,10530,Lock the store up and put closed sign in the door,52,5c39606586c1450001a9675d
+store,5,34444,Leave a message for my boss explaining the situation - I dont want a bench warrant issued for my arrest,74,5c39606586c1450001a9675d
+gas,0,10910,Apologize and say no,61,5c39606586c1450001a9675d
+gas,1,8830,Offer to call her a cab,81,5c39606586c1450001a9675d
+gas,2,16375,Offer her to use my cellphone to call a friend or family member to get her,83,5c39606586c1450001a9675d
+gas,3,6999,Look up the bus schedule,59,5c39606586c1450001a9675d
+gas,4,11080,Ask the gas station attendant to help her,50,5c39606586c1450001a9675d
+summer,0,6796,Try to open the car,79,5c39606586c1450001a9675d
+summer,1,19347,Go inside store and speak to a manager about making an announcement,100,5c39606586c1450001a9675d
+summer,2,14143,Record license plate and take pictures/videos of the car and dog,72,5c39606586c1450001a9675d
+summer,3,3323,Call 911,76,5c39606586c1450001a9675d
+summer,4,12630,Break a window in order to open the car door,50,5c39606586c1450001a9675d
+summer,5,11147,Gather witnesses,100,5c39606586c1450001a9675d
+medication,0,28149,Ask the pharmacy for discount program options,83,5c39606586c1450001a9675d
+medication,1,23943,Call the pharmaceutical company and explain the situation. Ask for coupon/discount,89,5c39606586c1450001a9675d
+medication,2,9561,"Talk to doctor about alternatives ",87,5c39606586c1450001a9675d
+medication,3,9846,Talk to insurance company about alternatives,50,5c39606586c1450001a9675d
+medication,4,19081,Get a credit card and figure out side hustle to pay it off,55,5c39606586c1450001a9675d
+medication,5,6209,Make gofundme,27,5c39606586c1450001a9675d
+ring,0,13281,Call the taxi service,66,5c39606586c1450001a9675d
+ring,1,11911,Enlist the help of friends tracking down the taxi,88,5c39606586c1450001a9675d
+ring,3,11125,Let me sister and parents know,67,5c39606586c1450001a9675d
+ring,5,14431,Apologize like crazy,100,5c39606586c1450001a9675d
+arizona,0,27882,Build shelter around my friend as well as possible,84,5c39606586c1450001a9675d
+arizona,1,14647,Go through food and water and divide the rations between me and my friend,87,5c39606586c1450001a9675d
+arizona,2,26377,"Go for help, making markings along the way so we can find my friend when we come back",89,5c39606586c1450001a9675d
+arizona,3,28178,Start calling out every 500 ft or so to see if anyone else is on the trail and can help,87,5c39606586c1450001a9675d
+arizona,4,15478,Keep trying my phone the closer I get back to the parking lot,94,5c39606586c1450001a9675d
+arizona,5,9542,Pray,94,5c39606586c1450001a9675d
+concert,0,16316,Find a ticket for sale in the crowd,50,5c39606586c1450001a9675d
+concert,1,6491,Offer my ticket to my friend,74,5c39606586c1450001a9675d
+concert,2,15179,Offer my car for my friend to go back and get his ticket,62,5c39606586c1450001a9675d
+concert,3,10957,Offer to skip the show with my friend,79,5c39606586c1450001a9675d
+concert,4,20244,Offer an alternative activity to the show like going out to the bar,85,5c39606586c1450001a9675d
+concert,5,20426,Call other friends to see if they could pick up the ticket and meet us at the show,63,5c39606586c1450001a9675d
+mother,0,7897,Start looking for new apartments,83,5c39606586c1450001a9675d
+mother,1,9643,Consider moving in to my parents home,86,5c39606586c1450001a9675d
+mother,2,12181,Research home health aides for my dad,57,5c39606586c1450001a9675d
+mother,3,17345,Reach out to social services to see what help may be available,85,5c39606586c1450001a9675d
+mother,4,18426,See if my dad could temporarily move in with another relative,64,5c39606586c1450001a9675d
+mother,5,39214,Let my Dad stay in his home but schedule regular visits to take care of him,61,5c39606586c1450001a9675d
+class,0,12862,Try to recreate my assignment,72,5c39606586c1450001a9675d
+class,1,11762,Call my mom and see if she would be able to bring it to me,50,5c39606586c1450001a9675d
+class,2,23343,Talk to the teacher before class begins about possibility for late turn in for partial credit,69,5c39606586c1450001a9675d
+class,3,23860,Think about how I need to double-check my stuff before I leave in the mornings,76,5c39606586c1450001a9675d
+class,4,26244,Figure out how badly this impacts my grade,28,5c39606586c1450001a9675d
+class,5,9111,Hate myself,16,5c39606586c1450001a9675d
+medication,0,14874,Do GoFundMe page for the money.,64,5b0ad393e9270900013b96e6
+medication,1,21442,Tell them to get a job and help out with the $.,95,5b0ad393e9270900013b96e6
+medication,2,17473,Buy black market meds from the internet.,30,5b0ad393e9270900013b96e6
+medication,3,13388,Buy better insurance.,100,5b0ad393e9270900013b96e6
+medication,4,51051,Put them in a coping skill class to suffer through it.,63,5b0ad393e9270900013b96e6
+medication,5,11760,Ignore the situation.,13,5b0ad393e9270900013b96e6
+summer,0,12626,Have store page driver.,100,5b0ad393e9270900013b96e6
+summer,1,11814,Call police to fine driver.,100,5b0ad393e9270900013b96e6
+summer,2,7601,Break window.,62,5b0ad393e9270900013b96e6
+summer,3,20765,Ignore the problem.,10,5b0ad393e9270900013b96e6
+summer,5,75044,Record the dogs distress and brain damage or death on my pone and post the drivers car and plate on the web to prevent others killing their dog this way.,41,5b0ad393e9270900013b96e6
+gas,0,7972,Leave her there.,100,5b0ad393e9270900013b96e6
+gas,1,8638,Take her all the way.,100,5b0ad393e9270900013b96e6
+gas,2,16945,Take her to my place then turn her loose.,91,5b0ad393e9270900013b96e6
+gas,3,23124,Give her money to go away.,62,5b0ad393e9270900013b96e6
+gas,4,14458,Lie and say going opposite direction.,39,5b0ad393e9270900013b96e6
+ring,0,19408,Fake being sick and get an ambulance.,17,5b0ad393e9270900013b96e6
+ring,2,13166,Tell them the truth.,61,5b0ad393e9270900013b96e6
+ring,4,45525,Buy another ring somehow from somebody or a nearby store.,100,5b0ad393e9270900013b96e6
+ring,5,65549,Write an I.O.U. for the couple when ring time comes.,0,5b0ad393e9270900013b96e6
+store,0,12726,Lock store and go to court.,100,5b0ad393e9270900013b96e6
+store,1,18791,Call lawyer to convey message during court.,91,5b0ad393e9270900013b96e6
+store,2,18543,Ignore the problem and get a F.T.A.,0,5b0ad393e9270900013b96e6
+store,3,23816,Call the court directly.,35,5b0ad393e9270900013b96e6
+store,4,34239,"Lock store, drive to bosses house immediatly.",100,5b0ad393e9270900013b96e6
+store,5,13085,Get another employee to come.,89,5b0ad393e9270900013b96e6
+arizona,0,10378,Leave her and get help.,100,5b0ad393e9270900013b96e6
+arizona,1,35647,Write big SOS in the sand in case of a plane.,80,5b0ad393e9270900013b96e6
+arizona,2,29045,Make shelter over her and wait till arm comes loose.,10,5b0ad393e9270900013b96e6
+arizona,3,40146,"Use anything for lubricant, such ass nearby plants.",75,5b0ad393e9270900013b96e6
+arizona,4,30418,Yell loud till exhausted in case of people around.,100,5b0ad393e9270900013b96e6
+arizona,5,14578,Break her arm.,86,5b0ad393e9270900013b96e6
+mother,0,13604,Move him in and get a better job.,100,5b0ad393e9270900013b96e6
+mother,1,15153,GoFundMe page for the cash.,79,5b0ad393e9270900013b96e6
+mother,2,22607,Buy super cheap home care fro Craigslist.,89,5b0ad393e9270900013b96e6
+mother,3,9613,Ignore the problem.,0,5b0ad393e9270900013b96e6
+mother,4,15832,Buy better insurance.,100,5b0ad393e9270900013b96e6
+mother,5,23526,Turn him over to the state for care.,62,5b0ad393e9270900013b96e6
+class,0,10505,Call mom to bring it.,92,5b0ad393e9270900013b96e6
+class,1,9787,Leave school and get it.,100,5b0ad393e9270900013b96e6
+class,2,21676,Tell them any lame excuse to get more time.,81,5b0ad393e9270900013b96e6
+class,3,12232,Redo the assignment on the spot.,95,5b0ad393e9270900013b96e6
+class,4,11228,Do nothing and take the fail.,100,5b0ad393e9270900013b96e6
+concert,0,6774,Sneak in.,87,5b0ad393e9270900013b96e6
+concert,1,16061,Bribe the bouncer with case or goods.,100,5b0ad393e9270900013b96e6
+concert,2,17075,Go to concert myself.,18,5b0ad393e9270900013b96e6
+concert,3,25627,Both of us sell the ticket in hand and do something else.,100,5b0ad393e9270900013b96e6
+concert,4,21093,Cuss my friend out so I feel better.,29,5b0ad393e9270900013b96e6
+concert,5,50008,Search on the phone for a scan-able ticket.,100,5b0ad393e9270900013b96e6
+bakery,0,19484,Delete some sales to balance.,22,5b0ad393e9270900013b96e6
+bakery,1,13335,Use my own money to cover.,100,5b0ad393e9270900013b96e6
+bakery,2,16611,"Leave as, is with note to boss.",95,5b0ad393e9270900013b96e6
+bakery,3,16129,Quit and never visit the place ever.,100,5b0ad393e9270900013b96e6
+bakery,4,12159,Lie that I got robbed.,24,5b0ad393e9270900013b96e6
+bakery,5,47832,Blame someone else somehow. Such as till was short when I got it.,63,5b0ad393e9270900013b96e6
+mother,0,10621,Move in with my dad,78,5e500ab1ec45d305b6b82d9f
+mother,1,29238,See if any of my aunts or uncles could take care of my dad,86,5e500ab1ec45d305b6b82d9f
+mother,2,27203,Get a bigger apartment and have my dad move in,61,5e500ab1ec45d305b6b82d9f
+mother,3,53756,"If I lived in a complex, my dad could move into an apartment in my complex",60,5e500ab1ec45d305b6b82d9f
+mother,5,26124,"Reach out to senior organizations to get advice ",44,5e500ab1ec45d305b6b82d9f
+ring,0,15924,Call the taxi company,100,5e500ab1ec45d305b6b82d9f
+ring,1,10235,Go outside and see if the taxi is nearby,65,5e500ab1ec45d305b6b82d9f
+ring,2,15296,Explain to them what happened and try to get the ring back later,33,5e500ab1ec45d305b6b82d9f
+ring,3,45618,Just tell them what happened and see what they want me to do,44,5e500ab1ec45d305b6b82d9f
+ring,4,15732,Get someone else at the wedding to try to track the taxi down,54,5e500ab1ec45d305b6b82d9f
+ring,5,7592,Try to track the taxi down myself,62,5e500ab1ec45d305b6b82d9f
+gas,3,21509,Give her a ride,50,5e500ab1ec45d305b6b82d9f
+gas,5,26207,Just ignore her,0,5e500ab1ec45d305b6b82d9f
+bakery,0,24010,Tell the manager,64,5e500ab1ec45d305b6b82d9f
+bakery,1,5205,"Not say anything ",16,5e500ab1ec45d305b6b82d9f
+bakery,2,34615,Work overtime,32,5e500ab1ec45d305b6b82d9f
+bakery,3,23435,Double count to see if I made a mistake counting the first time,79,5e500ab1ec45d305b6b82d9f
+bakery,4,17306,Talk to the other employees and explain the situation,94,5e500ab1ec45d305b6b82d9f
+bakery,5,22920,Put my own money in there,0,5e500ab1ec45d305b6b82d9f
+arizona,0,15682,Walk until I get phone service,67,5e500ab1ec45d305b6b82d9f
+arizona,1,5012,Try to find water,28,5e500ab1ec45d305b6b82d9f
+arizona,2,5153,Try to get my friend out,34,5e500ab1ec45d305b6b82d9f
+arizona,3,21005,Go back the way we came to get to our car,81,5e500ab1ec45d305b6b82d9f
+arizona,4,7536,Try to flag someone down,65,5e500ab1ec45d305b6b82d9f
+arizona,5,12795,See if anyone else is nearby,70,5e500ab1ec45d305b6b82d9f
+summer,0,12499,Go to the front desk at the mall and tell them,45,5e500ab1ec45d305b6b82d9f
+summer,1,10375,Call the non-emergency line and tell them,61,5e500ab1ec45d305b6b82d9f
+summer,2,4952,Break the window,45,5e500ab1ec45d305b6b82d9f
+summer,3,16154,Call the front desk at the mall and tell me the situation,62,5e500ab1ec45d305b6b82d9f
+summer,4,20062,Call my mom and see what I should do,32,5e500ab1ec45d305b6b82d9f
+summer,5,36699,Get someone else in the parking lot and see what they think we should do,43,5e500ab1ec45d305b6b82d9f
+store,0,10127,Call another employee to see if they can come in,71,5e500ab1ec45d305b6b82d9f
+store,1,23222,"If the owner has a spouse and I have their number, call them",72,5e500ab1ec45d305b6b82d9f
+store,3,7388,Call my lawyer if I have one,66,5e500ab1ec45d305b6b82d9f
+store,4,8174,Keep trying to call my boss,30,5e500ab1ec45d305b6b82d9f
+store,5,16315,Call corporate,71,5e500ab1ec45d305b6b82d9f
+class,0,15894,Explain to the teacher what happened,95,5e500ab1ec45d305b6b82d9f
+class,1,14224,See if I can turn the assignment in tomorrow,95,5e500ab1ec45d305b6b82d9f
+class,2,9129,Call my mom and see if she can bring the assignment to school,66,5e500ab1ec45d305b6b82d9f
+class,4,9613,Try to do the assignment quickly,28,5e500ab1ec45d305b6b82d9f
+class,5,27650,Explain to a classmate what happened and ask if I can copy their work,45,5e500ab1ec45d305b6b82d9f
+concert,0,8692,Go to the concert by myself,36,5e500ab1ec45d305b6b82d9f
+concert,1,26285,Go with Ted to get his ticket,42,5e500ab1ec45d305b6b82d9f
+concert,2,6722,Try to buy a ticket from a scalper,55,5e500ab1ec45d305b6b82d9f
+concert,3,13256,Give Ted my ticket and go do something else,38,5e500ab1ec45d305b6b82d9f
+concert,4,18638,Skip the concert and do something else entirely,40,5e500ab1ec45d305b6b82d9f
+concert,5,19464,See if Ted can bring the ticket up on his phone,91,5e500ab1ec45d305b6b82d9f
+medication,0,9651,Ask my family to borrow money,68,5e500ab1ec45d305b6b82d9f
+medication,1,10285,Ask my friends to borrow money for the medicine,60,5e500ab1ec45d305b6b82d9f
+medication,2,8287,Work overtime,38,5e500ab1ec45d305b6b82d9f
+medication,3,7835,Try to get an advance on my check,41,5e500ab1ec45d305b6b82d9f
+class,0,11726,Call your mom and have her bring it to school.,83,597b81f3de42bf000181db0b
+class,1,8242,Quickly do the assignment again.,65,597b81f3de42bf000181db0b
+class,2,7324,Tell the teacher the truth and ask for clemency.,100,597b81f3de42bf000181db0b
+class,3,8777,Lie and say your dog ate your homework.,0,597b81f3de42bf000181db0b
+class,5,51279,Skip lunch and go get the homework yourself.,50,597b81f3de42bf000181db0b
+ring,0,7948,Panic.,34,597b81f3de42bf000181db0b
+ring,1,11320,"Tell someone, ask for help.",61,597b81f3de42bf000181db0b
+ring,2,18260,"Tell your sister (the Bride). ",19,597b81f3de42bf000181db0b
+ring,3,12687,"Call the Taxi company, try to recover the ring.",95,597b81f3de42bf000181db0b
+ring,4,16717,Use a fake ring and hope no one notices.,14,597b81f3de42bf000181db0b
+ring,5,32404,Cause a disturbance so that the wedding is postponed.,0,597b81f3de42bf000181db0b
+bakery,0,9093,Let the staff work overtime.,37,597b81f3de42bf000181db0b
+bakery,1,15549,"Do a recount, maybe you made a mistake.",74,597b81f3de42bf000181db0b
+bakery,2,9932,Pay the difference out of pocket.,58,597b81f3de42bf000181db0b
+bakery,3,56069,Ask the staff their input.,50,597b81f3de42bf000181db0b
+bakery,4,39292,Try to determine the cause.,61,597b81f3de42bf000181db0b
+bakery,5,31664,"Report as is, but ask for leniency for the staff.",71,597b81f3de42bf000181db0b
+store,0,8704,"Stay at work, miss court appointment.",26,597b81f3de42bf000181db0b
+store,1,61192,Leave work unattended and go to court.,32,597b81f3de42bf000181db0b
+store,2,32333,"Close and lock up at work, go to court.",50,597b81f3de42bf000181db0b
+store,3,24301,Ask another employee to cover for you.,66,597b81f3de42bf000181db0b
+store,5,16596,Call the courthouse and ask for an extension.,64,597b81f3de42bf000181db0b
+gas,1,23338,Give her what she wants.,65,597b81f3de42bf000181db0b
+gas,2,12209,"Give her a ride, but only part of the way.",73,597b81f3de42bf000181db0b
+gas,3,26149,Simply decline.,50,597b81f3de42bf000181db0b
+gas,4,38925,Give her bus fare/drop her off at a bus station.,50,597b81f3de42bf000181db0b
+gas,5,34705,Call a taxi/Uber for her.,50,597b81f3de42bf000181db0b
+arizona,0,7530,Chew her arm off.,8,597b81f3de42bf000181db0b
+arizona,1,27439,Leave to find a location with better reception.,84,597b81f3de42bf000181db0b
+arizona,2,66843,Try to chisel away at the stone.,46,597b81f3de42bf000181db0b
+arizona,3,32591,Drink your own urine to stay hydrated? Gross.,0,597b81f3de42bf000181db0b
+arizona,4,26817,"Pee on her arm, maybe it will slip out. Tee hee.",50,597b81f3de42bf000181db0b
+arizona,5,10679,Go get help.,100,597b81f3de42bf000181db0b
+summer,0,4529,Ignore the dog.,13,597b81f3de42bf000181db0b
+summer,1,37866,Break a window on the car.,33,597b81f3de42bf000181db0b
+summer,2,16641,Call the police/mall security.,91,597b81f3de42bf000181db0b
+summer,3,9440,Wait around for the owner to come back so you can yell at them.,38,597b81f3de42bf000181db0b
+summer,4,18571,Get the attention of other people nearby.,50,597b81f3de42bf000181db0b
+summer,5,73193,Call some kind of animal abuse hotline?,50,597b81f3de42bf000181db0b
+mother,0,11844,Try to squeeze your father in your apartment anyway.,42,597b81f3de42bf000181db0b
+mother,1,17514,Move to somewhere big enough for the both of you.,62,597b81f3de42bf000181db0b
+mother,2,13143,Ask other family for help.,70,597b81f3de42bf000181db0b
+mother,3,31730,Look into charitable donations or offers.,50,597b81f3de42bf000181db0b
+mother,4,19017,Hire a nurse for your father.,77,597b81f3de42bf000181db0b
+mother,5,9300,Let your father fend for himself.,17,597b81f3de42bf000181db0b
+medication,0,6827,Ask for help from family.,68,597b81f3de42bf000181db0b
+medication,1,11901,Ask for help on social media/gofundme/whatever.,55,597b81f3de42bf000181db0b
+medication,2,8953,Enter a life of crime and steal the medicine.,32,597b81f3de42bf000181db0b
+medication,3,22536,"Sell everything, do anything, to afford the medicine.",50,597b81f3de42bf000181db0b
+medication,4,8535,Go without and enjoy the time you have left.,50,597b81f3de42bf000181db0b
+medication,5,5786,Ask partner what they think.,75,597b81f3de42bf000181db0b
+concert,0,4841,Ditch Ted.,32,597b81f3de42bf000181db0b
+concert,1,9087,Give Ted your ticket.,67,597b81f3de42bf000181db0b
+concert,2,15995,Go with Ted to get his ticket. Miss the show together.,69,597b81f3de42bf000181db0b
+concert,3,6869,Skip the concert entirely.,50,597b81f3de42bf000181db0b
+concert,4,13521,"Try to get a ticket from someone else, a scalper or something.",50,597b81f3de42bf000181db0b
+concert,5,8189,Try to sneak in without a ticket.,21,597b81f3de42bf000181db0b
