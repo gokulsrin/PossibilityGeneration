@@ -1,0 +1,198 @@
+,id,age,handedness,language,nationality,residence,gender,education,bai,bdi,panas_pos,panas_neg,openness
+0,0fHXbalW6zgVLiwg,35.0,left-handed,0,0,0,male,High school or equivalent ,1,3,0,0,0
+1,1727FYFvuGobtXXS,43.0,right-handed,0,0,0,male,High school or equivalent ,4,0,0,0,0
+2,1Pxv55J6gBK04IFj,30.0,right-handed,0,0,0,male,High school or equivalent ,2,0,0,0,0
+3,1SczUqX7VCwAfGkB,63.0,left-handed,0,0,0,female,Bachelor degree,1,9,0,0,0
+4,2r7EA4sVKkUR5rKe,30.0,left-handed,0,0,0,male,Bachelor degree,3,9,0,0,0
+5,3yShlLIAg5MekwWm,76.0,right-handed,0,0,0,male,College or Technical school,2,1,0,0,0
+6,466xi4hTybwGbuXY,35.0,right-handed,0,0,0,other,College or Technical school,6,39,0,0,0
+7,4UqHYmoTKfQ3WbJY,34.0,right-handed,0,0,0,female,Bachelor degree,16,24,0,0,0
+8,4VOu14Hcmp3ewbYp,26.0,right-handed,0,0,0,female,Bachelor degree,27,52,0,0,0
+9,5oa07q1AUXykjqSE,36.0,right-handed,0,0,0,male,Bachelor degree,3,1,0,0,0
+10,5wLvETHEm7ayudUj,61.0,right-handed,0,0,0,female,Bachelor degree,0,0,0,0,0
+11,6Hurf4Cja8xAaY4s,34.0,right-handed,0,0,0,male,High school or equivalent ,15,24,0,0,0
+12,6JnRmDTxmLxNxXtn,44.0,right-handed,0,0,0,male,College or Technical school,1,0,0,0,0
+13,6O2lbbhO39MdXf74,60.0,left-handed,0,0,0,female,Bachelor degree,4,4,0,0,0
+14,6RNXw4CqVt8Lu7kS,74.0,right-handed,0,0,0,male,High school or equivalent ,2,3,0,0,0
+15,6mm1lOmiiUj9zQe7,25.0,right-handed,0,0,0,female,High school or equivalent ,4,3,0,0,0
+16,6rWitoELwgyHs2CA,38.0,right-handed,0,0,0,female,College or Technical school,8,5,0,0,0
+17,7VRBPGmituBamGFL,45.0,right-handed,0,0,0,male,High school or equivalent ,2,3,0,0,0
+18,7inXLOQMlIksc8Bn,48.0,right-handed,0,0,0,male,Bachelor degree,3,2,0,0,0
+19,8EQd74qz5s1XmWuR,44.0,right-handed,0,0,0,female,College or Technical school,2,0,0,0,0
+20,8GWOts2Sd8BuTO7b,33.0,right-handed,0,0,0,male,Bachelor degree,1,2,0,0,0
+21,8MLrzKddnwdCrJT5,43.0,right-handed,0,0,0,female,Master/Doctorate,0,2,0,0,0
+22,8aMLfnRI5caebSyG,39.0,right-handed,0,0,0,male,Bachelor degree,3,13,0,0,0
+23,8ljVNFPV44EknwNc,52.0,right-handed,0,0,0,female,Bachelor degree,5,6,0,0,0
+24,9CUaHgl4X3JfZ2bh,37.0,right-handed,0,0,0,female,Bachelor degree,4,0,0,0,0
+25,AH6ctAtIcK7jMWMM,53.0,right-handed,0,0,0,female,College or Technical school,3,5,0,0,0
+26,Akr9VlG07ypyzeR3,41.0,ambidextrous,0,0,0,male,Bachelor degree,0,0,0,0,0
+27,AsXkpMrkmU67mhTT,38.0,right-handed,0,0,0,male,Bachelor degree,0,1,0,0,0
+28,B2JICgscKttP7cSS,29.0,right-handed,0,0,0,male,Master/Doctorate,32,36,0,0,0
+29,BPsgzhNVMwy7HE8B,37.0,right-handed,0,0,0,male,Bachelor degree,5,10,0,0,0
+30,BaI3dHpxMxRDa6nt,33.0,right-handed,0,0,0,male,College or Technical school,2,0,0,0,0
+31,C4r2TCepSABCm7B0,41.0,right-handed,0,0,0,male,Bachelor degree,4,3,0,0,0
+32,CAk5qmCLgvQThlpi,27.0,right-handed,0,0,0,male,Bachelor degree,2,0,0,0,0
+33,CYGqNiJvw9IVNzNx,36.0,right-handed,0,0,0,female,Bachelor degree,34,41,0,0,0
+34,CqaOXhd1uY64WUJ7,,ambidextrous,0,0,0,female,College or Technical school,3,3,0,0,0
+35,CyU763DT6AQI6tVF,72.0,right-handed,0,0,0,female,High school or equivalent ,10,18,0,0,0
+36,D01lHq1kX4ualYkh,47.0,ambidextrous,0,0,0,male,Bachelor degree,0,0,0,0,0
+37,DF9ygkoW1GGWpvPo,45.0,right-handed,0,0,0,male,College or Technical school,3,3,0,0,0
+38,DTZEmRdVbVxp1Uy5,55.0,right-handed,0,0,0,female,High school or equivalent ,38,37,0,0,0
+39,DUChmJlJS2t2XHEL,40.0,right-handed,0,0,0,female,Master/Doctorate,0,0,0,0,0
+40,DsS6byUIUJ6eXS1L,50.0,right-handed,0,0,0,female,College or Technical school,8,5,0,0,0
+41,EnT8oP36VWcvLWr7,25.0,left-handed,0,0,0,male,High school or equivalent ,20,28,0,0,0
+42,FDwGBGmPOazas5An,24.0,right-handed,0,0,0,male,College or Technical school,6,4,0,0,0
+43,FVwgdgTjwthdRR53,26.0,right-handed,0,0,0,male,Bachelor degree,4,3,0,0,0
+44,Fp1kR3zM1OX5QDTq,43.0,right-handed,0,0,0,female,College or Technical school,1,1,0,0,0
+45,FugB4SlcbFqNRstt,43.0,right-handed,0,0,0,male,High school or equivalent ,4,8,0,0,0
+46,GSNSFCTejMaohAeR,32.0,right-handed,0,0,0,male,High school or equivalent ,0,10,0,0,0
+47,GUlT5uYXrnacN1eh,25.0,right-handed,0,0,0,female,High school or equivalent ,3,0,0,0,0
+48,GiuZSBEJ8OOkUeI6,34.0,right-handed,0,0,0,female,High school or equivalent ,4,26,0,0,0
+49,Go8iCDOkVADNLKZc,43.0,right-handed,0,0,0,male,Bachelor degree,4,14,0,0,0
+50,HOVtsXpdYk86ulxK,30.0,right-handed,0,0,0,female,High school or equivalent ,4,6,0,0,0
+51,HWETruiizY1RjhB8,67.0,right-handed,0,0,0,female,College or Technical school,0,0,0,0,0
+52,HqlqdrWWeLXkjbc6,36.0,right-handed,0,0,0,female,Bachelor degree,19,2,0,0,0
+53,IaQyFg57hlOVk2UE,53.0,left-handed,0,0,0,female,Master/Doctorate,11,13,0,0,0
+54,IbEbMsBvon9NuhyV,69.0,right-handed,0,0,0,female,High school or equivalent ,0,3,0,0,0
+55,J2t4f5u92BKYTlJl,39.0,right-handed,0,0,0,male,College or Technical school,3,0,0,0,0
+56,JAuMvWkUBm9ovOkE,32.0,right-handed,0,0,0,female,College or Technical school,7,5,0,0,0
+57,KAmuymNEtKYEzF4S,31.0,right-handed,0,0,0,male,College or Technical school,4,4,0,0,0
+58,KTEY7eHKtsl7EqBF,35.0,right-handed,0,0,0,male,College or Technical school,4,1,0,0,0
+59,KnJmnbkReLQlPsl1,40.0,right-handed,0,0,0,female,High school or equivalent ,0,1,0,0,0
+60,KrELYXNecHDoCdMZ,28.0,right-handed,0,0,0,female,Master/Doctorate,3,1,0,0,0
+61,LDykxcL8JxPw3VJJ,27.0,right-handed,0,0,0,male,College or Technical school,10,3,0,0,0
+62,LOAv5JxiYF2iqG1F,43.0,right-handed,0,0,0,male,Bachelor degree,2,17,0,0,0
+63,Ld6xd8TdUSPdUS83,31.0,right-handed,0,0,0,male,Bachelor degree,2,5,0,0,0
+64,LuAIguP65sIwJWHl,28.0,right-handed,0,0,0,female,Bachelor degree,10,13,0,0,0
+65,M8xj7ZUIb1k9q7j5,33.0,right-handed,0,0,0,male,College or Technical school,0,0,0,0,0
+66,MExyhIDu4DXQ6VhF,49.0,right-handed,0,0,0,female,Bachelor degree,5,5,0,0,0
+67,NAUbUn8KeNPQOzgL,25.0,right-handed,0,0,0,male,Bachelor degree,0,18,0,0,0
+68,NUpU3toCkxfQKiFB,49.0,left-handed,0,0,0,female,Bachelor degree,0,0,0,0,0
+69,OdowdiZyl0rR88I1,33.0,right-handed,0,0,0,female,College or Technical school,7,2,0,0,0
+70,Ow2IfiMoRp5UgIN9,43.0,left-handed,0,0,0,male,Master/Doctorate,1,2,0,0,0
+71,PdRFWFqvbhusaeIz,55.0,right-handed,0,0,0,female,High school or equivalent ,0,0,0,0,0
+72,Q7H9f2dQsWbpuFXP,27.0,right-handed,0,0,0,female,Bachelor degree,8,9,0,0,0
+73,Qjd2v6eYExNVaGB0,24.0,right-handed,0,0,0,female,Bachelor degree,6,13,0,0,0
+74,RgxqvffkXJ9uuBW2,32.0,right-handed,0,0,0,female,College or Technical school,4,0,0,0,0
+75,SD9qWjZZ2OHukWXd,62.0,right-handed,0,0,0,male,Bachelor degree,1,0,0,0,0
+76,SJ2i3Bx4ltBNfgbL,55.0,right-handed,0,0,0,male,College or Technical school,1,2,0,0,0
+77,Si7X2zEWdWUTiO25,36.0,right-handed,0,0,0,female,High school or equivalent ,1,2,0,0,0
+78,SwNoriCnfzRyAPUc,29.0,right-handed,0,0,0,male,Bachelor degree,9,7,0,0,0
+79,TABJXOsJyDkBBsJQ,40.0,right-handed,0,0,0,female,High school or equivalent ,5,10,0,0,0
+80,TCD0fYyzirPMJM6Y,31.0,left-handed,0,0,0,male,College or Technical school,7,7,0,0,0
+81,TkAMS9FvdjKAa7Df,28.0,right-handed,0,0,0,male,High school or equivalent ,3,1,0,0,0
+82,UVe1mr7QqPxgC8dl,42.0,left-handed,0,0,0,male,High school or equivalent ,3,0,0,0,0
+83,UaJ50OIUEwT2ydIi,47.0,right-handed,0,0,0,female,Bachelor degree,2,27,0,0,0
+84,VVucjJRIl8CltlPf,35.0,right-handed,0,0,0,male,High school or equivalent ,1,0,0,0,0
+85,Vdb7DVqiQXbMqqSp,34.0,right-handed,0,0,0,male,Bachelor degree,2,9,0,0,0
+86,VhQPNEEJm6efAPdG,35.0,right-handed,0,0,0,female,High school or equivalent ,3,7,0,0,0
+87,Vms3EhOLzDnJAnDK,33.0,right-handed,0,0,0,female,Bachelor degree,7,36,0,0,0
+88,W4tHaNuEfNF5zsSD,37.0,right-handed,0,0,0,female,Bachelor degree,7,11,0,0,0
+89,WwKu2bAdlqcO5Iue,41.0,right-handed,0,0,0,female,College or Technical school,1,0,0,0,0
+90,XFWanetKbxP9zSZD,37.0,right-handed,0,0,0,female,Bachelor degree,0,0,0,0,0
+91,Y6Lcbsl3ejvsqmYv,51.0,right-handed,0,0,0,male,College or Technical school,5,2,0,0,0
+92,YNbqOSVoeRrKo1ev,54.0,right-handed,0,0,0,female,College or Technical school,1,2,0,0,0
+93,YX5fuO4VpL3Et7bB,41.0,right-handed,0,0,0,female,Bachelor degree,1,4,0,0,0
+94,YlJBh8YOGAZV1rBB,33.0,right-handed,0,0,0,female,Bachelor degree,5,3,0,0,0
+95,ZDOOJDraKJosb9X4,45.0,right-handed,0,0,0,male,Master/Doctorate,37,26,0,0,0
+96,ZhUImVUIBLNroZY5,43.0,right-handed,0,0,0,male,College or Technical school,11,20,0,0,0
+97,ZtUlG8nymmuIVtQJ,40.0,right-handed,0,0,0,female,Bachelor degree,5,5,0,0,0
+98,aofuyLYWrXlcsbdV,34.0,right-handed,0,0,0,female,Bachelor degree,1,0,0,0,0
+99,asaQFwV8BzNMLcAm,50.0,right-handed,0,0,0,female,Master/Doctorate,0,0,0,0,0
+100,b3mdHI5XpPw0L6I8,42.0,right-handed,0,0,0,female,High school or equivalent ,9,37,0,0,0
+101,b5RmskcHQK2pWL3g,41.0,left-handed,0,0,0,male,High school or equivalent ,5,6,0,0,0
+102,b94OLVUuCdb8LTsm,37.0,right-handed,0,0,0,female,College or Technical school,1,0,0,0,0
+103,bGao6blIpAQ6ubZ7,30.0,right-handed,0,0,0,male,Bachelor degree,0,0,0,0,0
+104,bS5imi5mF5vPsTOr,40.0,right-handed,0,0,0,female,High school or equivalent ,22,37,0,0,0
+105,buqE5IyVFvtat6RO,32.0,right-handed,0,0,0,male,Bachelor degree,0,0,0,0,0
+106,c44dec754nAYO5Ub,35.0,right-handed,0,0,0,female,Bachelor degree,3,15,0,0,0
+107,c6W4I57UnPoKFvH7,31.0,right-handed,0,0,0,female,High school or equivalent ,16,29,0,0,0
+108,cSSdaqkAGSsfksIS,27.0,right-handed,0,0,0,female,College or Technical school,14,20,0,0,0
+109,cngCeDVleaTin3EH,29.0,right-handed,0,0,0,female,Bachelor degree,1,1,0,0,0
+110,czbssSlSu92P9y5j,26.0,right-handed,0,0,0,female,Bachelor degree,0,0,0,0,0
+111,dA6ekQVYjtA5YOdv,39.0,left-handed,0,0,0,male,High school or equivalent ,8,15,0,0,0
+112,dQhgwpbWtraSqM8S,31.0,right-handed,0,0,0,male,College or Technical school,3,0,0,0,0
+113,dSMoYtbOJa3h2iY8,29.0,right-handed,0,0,0,male,Bachelor degree,5,17,0,0,0
+114,dohlhabdqwmjmyF0,30.0,right-handed,0,0,0,male,College or Technical school,17,14,0,0,0
+115,emfgUHx1aIkNN1am,21.0,right-handed,0,0,0,male,College or Technical school,3,0,0,0,0
+116,epyBdWiOjII3f8L5,49.0,right-handed,0,0,0,female,High school or equivalent ,6,9,0,0,0
+117,eyRMIw8VDOQBha1b,53.0,right-handed,0,0,0,female,Bachelor degree,0,5,0,0,0
+118,fIZSGpUK51yBnCzO,50.0,left-handed,0,0,0,female,High school or equivalent ,0,0,0,0,0
+119,fPz9uhs0RXM1vi3h,55.0,right-handed,0,0,0,male,College or Technical school,2,3,0,0,0
+120,fSk4MNSO45OaueVy,56.0,left-handed,0,0,0,female,College or Technical school,8,11,0,0,0
+121,fi9dS8z9aticC2J9,64.0,right-handed,0,0,0,male,Bachelor degree,13,7,0,0,0
+122,fnf1aar7eDXePRVl,50.0,right-handed,0,0,0,female,High school or equivalent ,1,2,0,0,0
+123,fqFWNi94HyN8OcBc,37.0,right-handed,0,0,0,female,,6,2,0,0,0
+124,fxVc9NlkrlWyqgzQ,55.0,right-handed,0,0,0,female,Bachelor degree,2,2,0,0,0
+125,fzFQHDDhGgmYxE2Y,31.0,right-handed,0,0,0,female,Bachelor degree,9,11,0,0,0
+126,gHmcEtOz6f4lH2Ay,45.0,left-handed,0,0,0,male,Bachelor degree,5,12,0,0,0
+127,gLJTltqLKTelT4Fq,53.0,right-handed,0,0,0,male,Master/Doctorate,11,15,0,0,0
+128,gR7oYkASSfflZiYW,32.0,right-handed,0,0,0,male,Bachelor degree,1,3,0,0,0
+129,higH6M9C1yODu2JM,38.0,right-handed,0,0,0,male,Bachelor degree,0,2,0,0,0
+130,hpoPxAMjD3xxTlhy,37.0,right-handed,0,0,0,female,Bachelor degree,1,3,0,0,0
+131,hqSazcNpL2qpjizq,32.0,right-handed,0,0,0,male,College or Technical school,12,26,0,0,0
+132,hwHPDgEHVFYKzLA6,56.0,right-handed,0,0,0,female,College or Technical school,8,8,0,0,0
+133,hyCWtRno8N3RgBMs,51.0,right-handed,0,0,0,male,High school or equivalent ,0,5,0,0,0
+134,iPaBUx0EU4zYWVz6,39.0,right-handed,0,0,0,female,College or Technical school,3,5,0,0,0
+135,iSBmHkZQxG9LxFtc,37.0,right-handed,0,0,0,male,Bachelor degree,0,1,0,0,0
+136,ifHgET7pZtsB2sRu,29.0,right-handed,0,0,0,male,High school or equivalent ,2,16,0,0,0
+137,ifyzB839xBUDOHk3,25.0,right-handed,0,0,0,male,Bachelor degree,2,8,0,0,0
+138,izbH9cu9XT5V1sFx,37.0,right-handed,0,0,0,male,Master/Doctorate,7,8,0,0,0
+139,jK6rS52wYYJWEPtL,53.0,right-handed,0,0,0,female,Master/Doctorate,10,4,0,0,0
+140,jTeL8rnbI7vUBiYC,42.0,right-handed,0,0,0,male,College or Technical school,2,24,0,0,0
+141,jeFnVuNoHavkSGbs,42.0,right-handed,0,0,0,female,Bachelor degree,2,7,0,0,0
+142,jlyXHStVYx0rsP4w,55.0,right-handed,0,0,0,female,Master/Doctorate,9,2,0,0,0
+143,kNsPtEQ0tHjw9GpW,49.0,right-handed,0,0,0,male,High school or equivalent ,11,7,0,0,0
+144,kVkQdp3IbsD7NFOA,30.0,right-handed,0,0,0,male,High school or equivalent ,0,2,0,0,0
+145,kcXpTECOUhsF6TYQ,28.0,right-handed,0,0,0,female,Bachelor degree,8,29,0,0,0
+146,l1Ahez2nS6ZeUiI6,34.0,right-handed,0,0,0,female,Bachelor degree,11,1,0,0,0
+147,lhvE88jab4PHTcym,30.0,right-handed,0,0,0,female,Bachelor degree,26,18,0,0,0
+148,m4tOn9dAFsOQ6DnK,42.0,right-handed,0,0,0,female,Bachelor degree,13,5,0,0,0
+149,nJ4l8qvkGEKdKoPm,63.0,right-handed,0,0,0,female,College or Technical school,3,17,0,0,0
+150,noFhAuzL3c1awYpG,45.0,right-handed,0,0,0,male,Master/Doctorate,2,0,0,0,0
+151,oG6Dj5IRP7nyacGK,28.0,right-handed,0,0,0,male,Bachelor degree,1,10,0,0,0
+152,oVPSx8nYtMgvFtkn,41.0,right-handed,0,0,0,female,Master/Doctorate,38,34,0,0,0
+153,oby9H7NDgq9SJjJe,70.0,left-handed,0,0,0,female,Master/Doctorate,0,0,0,0,0
+154,oc3skKWtyiCUM3a2,39.0,right-handed,0,0,0,male,Bachelor degree,35,23,0,0,0
+155,p6XzjJp7jiOKBGng,27.0,right-handed,0,0,0,male,High school or equivalent ,23,28,0,0,0
+156,pdh7fqAiEky58Ond,55.0,right-handed,0,0,0,male,Master/Doctorate,0,0,0,0,0
+157,pgxZpJeqYScIyudf,46.0,right-handed,0,0,0,female,High school or equivalent ,9,6,0,0,0
+158,pjA9Q6waP26hRuBD,31.0,right-handed,0,0,0,male,Bachelor degree,35,39,0,0,0
+159,pkjbgZOurgGyxxQj,47.0,right-handed,0,0,0,female,Bachelor degree,14,0,0,0,0
+160,ptLrQVG1CSKUG4s4,31.0,right-handed,0,0,0,female,High school or equivalent ,18,25,0,0,0
+161,qJNjiXeH6OLCl9ib,38.0,right-handed,0,0,0,female,High school or equivalent ,0,0,0,0,0
+162,r8wr3vt7Kbarsvde,26.0,right-handed,0,0,0,male,Bachelor degree,3,4,0,0,0
+163,rHietxiTLCbKYnUK,55.0,right-handed,0,0,0,male,College or Technical school,7,2,0,0,0
+164,rR5s5CiXUdWUICfW,70.0,ambidextrous,0,0,0,male,Master/Doctorate,1,0,0,0,0
+165,rgWV6FKmhHB5AFHU,36.0,right-handed,0,0,0,female,High school or equivalent ,19,16,0,0,0
+166,rqBoOsRCCJLPYNEf,32.0,right-handed,0,0,0,female,Master/Doctorate,3,5,0,0,0
+167,rwjPnVapej89BtIW,48.0,right-handed,0,0,0,female,Master/Doctorate,33,24,0,0,0
+168,sC56pdVdMNXAzirT,32.0,right-handed,0,0,0,female,Bachelor degree,0,3,0,0,0
+169,t5K8irhX7EK4a8Jc,40.0,right-handed,0,0,0,male,Bachelor degree,3,0,0,0,0
+170,tPhSW2qHAMTSZ4lO,25.0,right-handed,0,0,0,male,High school or equivalent ,3,2,0,0,0
+171,u1sNIQMEViLzZZJp,25.0,right-handed,0,0,0,male,Bachelor degree,0,0,0,0,0
+172,u2iDbKHJ20A5PHC8,30.0,right-handed,0,0,0,female,Bachelor degree,0,0,0,0,0
+173,u6ZXr3g9d4xlBEhT,36.0,right-handed,0,0,0,female,Master/Doctorate,3,0,0,0,0
+174,uBILEdF7DYFQO6rT,48.0,right-handed,0,0,0,female,Bachelor degree,2,3,0,0,0
+175,uJs58bpY5fehyQxi,38.0,right-handed,0,0,0,male,Bachelor degree,4,0,0,0,0
+176,uUoV4wpnBVVKbkf6,41.0,right-handed,0,0,0,female,,7,0,0,0,0
+177,uV3NIN3Cmq81qSCe,48.0,left-handed,0,0,0,female,Bachelor degree,22,43,0,0,0
+178,uWHWyQcUNCE31CUV,49.0,right-handed,0,0,0,female,Bachelor degree,6,1,0,0,0
+179,uXggaQYMXWlAwSz7,30.0,left-handed,0,0,0,female,College or Technical school,30,35,0,0,0
+180,ug5dsRUPBz6qVTow,58.0,right-handed,0,0,0,female,High school or equivalent ,19,25,0,0,0
+181,vBFCFk8K3oRLU2vR,63.0,right-handed,0,0,0,female,High school or equivalent ,4,2,0,0,0
+182,vJKEzo952nDHAXUY,30.0,right-handed,0,0,0,male,High school or equivalent ,19,31,0,0,0
+183,vsyVzT1Hv9EPZ0iX,37.0,right-handed,0,0,0,male,Master/Doctorate,5,3,0,0,0
+184,w7TA2rXMd5ejmQqj,29.0,right-handed,0,0,0,female,High school or equivalent ,8,16,0,0,0
+185,w8scQCGh1fIpy60r,44.0,right-handed,0,0,0,male,College or Technical school,22,28,0,0,0
+186,wTx0Qk9EXdyS8mFx,31.0,right-handed,0,0,0,male,Bachelor degree,0,0,0,0,0
+187,wnaHuX2DoClMsJ6M,27.0,right-handed,0,0,0,female,High school or equivalent ,8,9,0,0,0
+188,x74aJOL24sWz0nsM,60.0,right-handed,0,0,0,female,High school or equivalent ,16,6,0,0,0
+189,xJlVQIpQluAhGe4q,41.0,right-handed,0,0,0,male,Master/Doctorate,1,1,0,0,0
+190,xriPRsYd5rm3qpkq,31.0,right-handed,0,0,0,male,Master/Doctorate,1,2,0,0,0
+191,xuMqNmgq9mjXCjB4,27.0,right-handed,0,0,0,female,College or Technical school,1,0,0,0,0
+192,yADde3HozJGzGrGS,26.0,right-handed,0,0,0,male,College or Technical school,0,0,0,0,0
+193,yHy5caUsWFIR3nzV,38.0,right-handed,0,0,0,male,High school or equivalent ,0,0,0,0,0
+194,ywsdT8EPGWhHyyun,46.0,left-handed,0,0,0,male,Bachelor degree,6,9,0,0,0
+195,z4IwVGGWaEWPq6rb,25.0,right-handed,0,0,0,female,College or Technical school,13,46,0,0,0
+196,zt2pxaRD7XKopfJm,41.0,right-handed,0,0,0,male,High school or equivalent ,1,4,0,0,0
